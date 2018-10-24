@@ -45,7 +45,7 @@ clf.add(Dense(32, activation = 'relu'))
 clf.add(Dense(1, activation = 'sigmoid'))
 
 #setting parameters for backpropogation
-clf.compile(optimizer = 'adamax', loss = 'binary_crossentropy', metrics = ['accuracy']) 
+clf.compile(optimizer = 'sgd', loss = 'binary_crossentropy', metrics = ['accuracy']) 
 
 
 
