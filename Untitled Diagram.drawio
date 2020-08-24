@@ -1,1 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2020-08-24T07:34:33.957Z" agent="5.0 (Windows)" version="13.6.4" etag="LcUF9qiq8iy_g6SUG7MK" type="github"><diagram id="G50hmUFvQF_Ascogoxo3">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-24T09:56:18.968Z" agent="5.0 (Windows)" etag="4QWJgbGZBTT1-7Mfg7Cg" version="13.6.4" type="github">
+  <diagram id="G50hmUFvQF_Ascogoxo3" name="Page-1">
+    <mxGraphModel dx="868" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-1" value="Lead Presented From Affiliates(Free of Cost)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-2" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="U-wd1HLYxVXASG_DGe6N-1" target="U-wd1HLYxVXASG_DGe6N-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="220" as="sourcePoint" />
+            <mxPoint x="390" y="160" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-3" value="Basic Filter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-4" value="Organic leads(Coming directly to the site)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-5" value="" style="endArrow=classic;html=1;exitX=0.367;exitY=1.013;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.875;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="U-wd1HLYxVXASG_DGe6N-4" target="U-wd1HLYxVXASG_DGe6N-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="220" as="sourcePoint" />
+            <mxPoint x="450" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
