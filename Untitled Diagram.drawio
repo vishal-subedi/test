@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-24T11:03:06.399Z" agent="5.0 (Windows)" etag="X27o4uhLtTY2xPphOFnI" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-24T11:06:32.135Z" agent="5.0 (Windows)" etag="pzsq7E_hCVgLBTsBGwvg" version="13.6.4" type="github">
   <diagram id="G50hmUFvQF_Ascogoxo3" name="Page-1">
     <mxGraphModel dx="868" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -51,6 +51,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-wd1HLYxVXASG_DGe6N-12" target="U-wd1HLYxVXASG_DGe6N-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="U-wd1HLYxVXASG_DGe6N-12" value="Incoming leads are presented a link to submit their bank statement" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="530" y="250" width="120" height="90" as="geometry" />
         </mxCell>
@@ -76,9 +79,6 @@
         <mxCell id="U-wd1HLYxVXASG_DGe6N-15" value="Redirected to GetCredit page where they submit bank statements" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="520" y="400" width="150" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="U-wd1HLYxVXASG_DGe6N-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-wd1HLYxVXASG_DGe6N-29" target="U-wd1HLYxVXASG_DGe6N-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="U-wd1HLYxVXASG_DGe6N-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-wd1HLYxVXASG_DGe6N-17" target="U-wd1HLYxVXASG_DGe6N-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -94,17 +94,14 @@
         <mxCell id="U-wd1HLYxVXASG_DGe6N-28" value="Rejected" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="430" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="U-wd1HLYxVXASG_DGe6N-29" value="&lt;div&gt;Accepted&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="370" y="520" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="U-wd1HLYxVXASG_DGe6N-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-wd1HLYxVXASG_DGe6N-17" target="U-wd1HLYxVXASG_DGe6N-29">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="490" as="sourcePoint" />
-            <mxPoint x="395" y="570" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="U-wd1HLYxVXASG_DGe6N-31" value="Success" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="570" y="360" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-35" value="Lead Lost" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="730" y="265" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-37" value="&lt;div&gt;Out of &lt;br&gt;&lt;/div&gt;&lt;div&gt;our reach&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="645" y="265" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
