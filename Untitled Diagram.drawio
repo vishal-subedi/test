@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-24T11:20:44.674Z" agent="5.0 (Windows)" etag="7F0hWch1sfJoZVtFyUo7" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-24T14:01:48.927Z" agent="5.0 (Windows)" etag="YdFDY-paC_DOv-YZ8FfJ" version="13.6.4" type="github">
   <diagram id="G50hmUFvQF_Ascogoxo3" name="Page-1">
     <mxGraphModel dx="868" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
             <mxPoint x="450" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U-wd1HLYxVXASG_DGe6N-6" value="Sold to other lenders" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-6" value="Sold to other other lenders" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="130" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U-wd1HLYxVXASG_DGe6N-8" value="Rejected" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -93,8 +93,11 @@
         <mxCell id="U-wd1HLYxVXASG_DGe6N-17" value="Basic Autofail filter" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="330" y="410" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U-wd1HLYxVXASG_DGe6N-19" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="320" y="570" width="150" height="100" as="geometry" />
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-wd1HLYxVXASG_DGe6N-19" target="U-wd1HLYxVXASG_DGe6N-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-19" value="The bank statements are sent to next wealth(bankapp) agents to manually verify various thresholds and measures inorder to analyse the behaviour of the applicants" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="290" y="570" width="240" height="130" as="geometry" />
         </mxCell>
         <mxCell id="U-wd1HLYxVXASG_DGe6N-23" value="Sold to other lenders" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="130" y="420" width="120" height="60" as="geometry" />
@@ -105,7 +108,7 @@
         <mxCell id="U-wd1HLYxVXASG_DGe6N-31" value="Success" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="570" y="360" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="U-wd1HLYxVXASG_DGe6N-35" value="&lt;div&gt;Lead Lost&lt;/div&gt;&lt;div&gt;Out of reach&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-35" value="&lt;div&gt;Lead Lost&lt;/div&gt;&lt;div&gt;Out of reach&lt;/div&gt;&lt;div&gt;try to reach out to the lead again&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="730" y="265" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U-wd1HLYxVXASG_DGe6N-37" value="Fail" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
@@ -113,6 +116,12 @@
         </mxCell>
         <mxCell id="U-wd1HLYxVXASG_DGe6N-39" value="Accepted" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="375" y="520" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-40" value="Sold to other lenders" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="30" y="605" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-42" value="Rejected" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="610" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
