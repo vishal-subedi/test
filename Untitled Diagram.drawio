@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-24T10:48:30.131Z" agent="5.0 (Windows)" etag="Wqu4BiaiX4eyLEg-p92V" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-24T10:53:00.923Z" agent="5.0 (Windows)" etag="E20vMgi94yY_plSt3aI_" version="13.6.4" type="github">
   <diagram id="G50hmUFvQF_Ascogoxo3" name="Page-1">
     <mxGraphModel dx="868" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -48,7 +48,7 @@
         <mxCell id="U-wd1HLYxVXASG_DGe6N-11" value="&lt;div&gt;Accepted&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="385" y="220" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="U-wd1HLYxVXASG_DGe6N-12" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-12" value="Incoming lead enters further details" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U-wd1HLYxVXASG_DGe6N-14" value="Lead redirected to the lenders organic site" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
