@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-24T09:56:18.968Z" agent="5.0 (Windows)" etag="4QWJgbGZBTT1-7Mfg7Cg" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-24T10:36:10.442Z" agent="5.0 (Windows)" etag="d_T_Rg7MJo9HGS4mIy5G" version="13.6.4" type="github">
   <diagram id="G50hmUFvQF_Ascogoxo3" name="Page-1">
     <mxGraphModel dx="868" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -14,6 +14,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-wd1HLYxVXASG_DGe6N-3" target="U-wd1HLYxVXASG_DGe6N-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-wd1HLYxVXASG_DGe6N-3" target="U-wd1HLYxVXASG_DGe6N-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="U-wd1HLYxVXASG_DGe6N-3" value="Basic Filter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="130" width="120" height="60" as="geometry" />
         </mxCell>
@@ -25,6 +31,18 @@
             <mxPoint x="400" y="220" as="sourcePoint" />
             <mxPoint x="450" y="170" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-6" value="Sold to other lenders" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-8" value="Rejected" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="140" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-9" value="Lead redirected to the lenders organic site" style="rounded=1;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="330" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-11" value="&lt;div&gt;Accepted&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="385" y="220" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
