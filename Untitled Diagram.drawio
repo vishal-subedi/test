@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-24T14:38:17.352Z" agent="5.0 (Windows)" etag="zwo66-502G4SaUjR1NSv" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-24T14:46:21.612Z" agent="5.0 (Windows)" etag="lTBDgFw6ZR2iZ9W3_jw7" version="13.6.4" type="github">
   <diagram id="G50hmUFvQF_Ascogoxo3" name="Page-1">
     <mxGraphModel dx="868" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,11 +16,6 @@
         </mxCell>
         <mxCell id="U-wd1HLYxVXASG_DGe6N-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-wd1HLYxVXASG_DGe6N-3" target="U-wd1HLYxVXASG_DGe6N-6">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="U-wd1HLYxVXASG_DGe6N-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-wd1HLYxVXASG_DGe6N-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="260" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="U-wd1HLYxVXASG_DGe6N-3" value="Basic Filter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="330" y="120" width="140" height="80" as="geometry" />
@@ -40,9 +35,6 @@
         <mxCell id="U-wd1HLYxVXASG_DGe6N-8" value="Rejected" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="140" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="U-wd1HLYxVXASG_DGe6N-11" value="&lt;div&gt;Accepted&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="385" y="220" width="40" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="U-wd1HLYxVXASG_DGe6N-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-wd1HLYxVXASG_DGe6N-12" target="U-wd1HLYxVXASG_DGe6N-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -57,16 +49,11 @@
         <mxCell id="U-wd1HLYxVXASG_DGe6N-12" value="Incoming leads are presented a link to be redirected inorder to submit their bank statement and they click on the link" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="530" y="250" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="U-wd1HLYxVXASG_DGe6N-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-wd1HLYxVXASG_DGe6N-14" target="U-wd1HLYxVXASG_DGe6N-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="480" y="295" />
-              <mxPoint x="480" y="295" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-wd1HLYxVXASG_DGe6N-14" target="U-wd1HLYxVXASG_DGe6N-112">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U-wd1HLYxVXASG_DGe6N-14" value="Lead redirected to the lenders organic site" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="340" y="260" width="120" height="90" as="geometry" />
+          <mxGeometry x="140" y="250" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="U-wd1HLYxVXASG_DGe6N-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-wd1HLYxVXASG_DGe6N-15" target="U-wd1HLYxVXASG_DGe6N-17">
           <mxGeometry relative="1" as="geometry">
@@ -243,6 +230,39 @@
         </mxCell>
         <mxCell id="U-wd1HLYxVXASG_DGe6N-104" value="Second Payment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1250" y="1100" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-107" value="" style="endArrow=classic;html=1;entryX=0.692;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="U-wd1HLYxVXASG_DGe6N-3" target="U-wd1HLYxVXASG_DGe6N-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="290" as="sourcePoint" />
+            <mxPoint x="570" y="240" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-109" value="Accepted" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="240" y="210" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-wd1HLYxVXASG_DGe6N-112" target="U-wd1HLYxVXASG_DGe6N-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="290" />
+              <mxPoint x="500" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-112" value="Esign contract" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="250" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-115" value="Accept" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="270" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-117" value="Reject" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="245" y="360" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-118" value="" style="endArrow=classic;html=1;entryX=0.4;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="U-wd1HLYxVXASG_DGe6N-112" target="U-wd1HLYxVXASG_DGe6N-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="325" as="sourcePoint" />
+            <mxPoint x="150" y="425" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
