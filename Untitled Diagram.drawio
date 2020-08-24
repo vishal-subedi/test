@@ -1,63 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2020-08-24T10:55:04.005Z" agent="5.0 (Windows)" etag="4ouEIZQ9szG-oQNhDqp0" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-24T10:57:17.310Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="-U7HCR9O559fWGH3O06g" version="13.6.4" type="github">
   <diagram id="G50hmUFvQF_Ascogoxo3" name="Page-1">
-    <mxGraphModel dx="868" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="U-wd1HLYxVXASG_DGe6N-1" value="Lead Presented From Affiliates(Free of Cost)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-1" value="Lead Presented From Affiliates(Free of Cost)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="190" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U-wd1HLYxVXASG_DGe6N-2" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="U-wd1HLYxVXASG_DGe6N-1" target="U-wd1HLYxVXASG_DGe6N-3">
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-2" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="U-wd1HLYxVXASG_DGe6N-1" target="U-wd1HLYxVXASG_DGe6N-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="220" as="sourcePoint" />
             <mxPoint x="390" y="160" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U-wd1HLYxVXASG_DGe6N-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-wd1HLYxVXASG_DGe6N-3" target="U-wd1HLYxVXASG_DGe6N-6">
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U-wd1HLYxVXASG_DGe6N-3" target="U-wd1HLYxVXASG_DGe6N-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U-wd1HLYxVXASG_DGe6N-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-wd1HLYxVXASG_DGe6N-3">
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U-wd1HLYxVXASG_DGe6N-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U-wd1HLYxVXASG_DGe6N-3" value="Basic Filter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="330" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-3" value="Basic Filter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="330" y="130" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U-wd1HLYxVXASG_DGe6N-4" value="Organic leads(Coming directly to the site)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-4" value="Organic leads(Coming directly to the site)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="470" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U-wd1HLYxVXASG_DGe6N-5" value="" style="endArrow=classic;html=1;exitX=0.367;exitY=1.013;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.875;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="U-wd1HLYxVXASG_DGe6N-4" target="U-wd1HLYxVXASG_DGe6N-3">
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-5" value="" style="endArrow=classic;html=1;exitX=0.367;exitY=1.013;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.875;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="U-wd1HLYxVXASG_DGe6N-4" target="U-wd1HLYxVXASG_DGe6N-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="220" as="sourcePoint" />
             <mxPoint x="450" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U-wd1HLYxVXASG_DGe6N-6" value="Sold to other lenders" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-6" value="Sold to other lenders" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="130" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U-wd1HLYxVXASG_DGe6N-8" value="Rejected" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-8" value="Rejected" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="270" y="140" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="U-wd1HLYxVXASG_DGe6N-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="U-wd1HLYxVXASG_DGe6N-12">
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="U-wd1HLYxVXASG_DGe6N-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="290" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U-wd1HLYxVXASG_DGe6N-11" value="&lt;div&gt;Accepted&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-11" value="&lt;div&gt;Accepted&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="385" y="220" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="U-wd1HLYxVXASG_DGe6N-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-wd1HLYxVXASG_DGe6N-12" target="U-wd1HLYxVXASG_DGe6N-15">
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U-wd1HLYxVXASG_DGe6N-12" target="U-wd1HLYxVXASG_DGe6N-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U-wd1HLYxVXASG_DGe6N-12" value="Incoming leads are presented a link to submit their bank statement" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-12" value="Incoming leads are presented a link to submit their bank statement" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="530" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U-wd1HLYxVXASG_DGe6N-14" value="Lead redirected to the lenders organic site" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-14" value="Lead redirected to the lenders organic site" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="340" y="260" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U-wd1HLYxVXASG_DGe6N-15" value="Redirected to GetCredit page where they submit bank statements" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-15" value="Redirected to GetCredit page where they submit bank statements" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="530" y="400" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
