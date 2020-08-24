@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-24T10:53:00.923Z" agent="5.0 (Windows)" etag="E20vMgi94yY_plSt3aI_" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-24T10:55:04.005Z" agent="5.0 (Windows)" etag="4ouEIZQ9szG-oQNhDqp0" version="13.6.4" type="github">
   <diagram id="G50hmUFvQF_Ascogoxo3" name="Page-1">
     <mxGraphModel dx="868" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -48,11 +48,17 @@
         <mxCell id="U-wd1HLYxVXASG_DGe6N-11" value="&lt;div&gt;Accepted&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="385" y="220" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="U-wd1HLYxVXASG_DGe6N-12" value="Incoming lead enters further details" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-wd1HLYxVXASG_DGe6N-12" target="U-wd1HLYxVXASG_DGe6N-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-12" value="Incoming leads are presented a link to submit their bank statement" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="530" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U-wd1HLYxVXASG_DGe6N-14" value="Lead redirected to the lenders organic site" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="340" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-15" value="Redirected to GetCredit page where they submit bank statements" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="530" y="400" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
