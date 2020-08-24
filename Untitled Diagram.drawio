@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-24T14:26:02.373Z" agent="5.0 (Windows)" etag="C-sdSa9HGKMAZpJyPaSM" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-24T14:26:14.547Z" agent="5.0 (Windows)" etag="H-iJ_WCrt7JPWnxNFPB8" version="13.6.4" type="github">
   <diagram id="G50hmUFvQF_Ascogoxo3" name="Page-1">
     <mxGraphModel dx="868" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -202,7 +202,7 @@
         <mxCell id="U-wd1HLYxVXASG_DGe6N-80" value="Amount is streamed to the checking account of the applicant " style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="640" y="1040" width="180" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="U-wd1HLYxVXASG_DGe6N-83" value="Applicant has found some other lender or is not interested in the amount anymore" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-83" value="Applicant has found some other lender or is not interested in the amount anymore" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="892.5" y="815" width="167.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="U-wd1HLYxVXASG_DGe6N-86" value="Funded" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=90;" vertex="1" parent="1">
