@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-25T07:35:14.532Z" agent="5.0 (Windows)" etag="WsPbFm3nucYs7G7wPMiO" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-25T07:35:59.148Z" agent="5.0 (Windows)" etag="gCA0oDvSMoBUeg6ZkgJO" version="13.6.4" type="github">
   <diagram id="G50hmUFvQF_Ascogoxo3" name="Page-1">
     <mxGraphModel dx="868" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -35,30 +35,31 @@
         <mxCell id="U-wd1HLYxVXASG_DGe6N-14" value="Lead redirected to the lenders organic site" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="140" y="245" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="U-wd1HLYxVXASG_DGe6N-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U-wd1HLYxVXASG_DGe6N-15" target="U-wd1HLYxVXASG_DGe6N-17" edge="1">
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U-wd1HLYxVXASG_DGe6N-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="490" y="450" />
               <mxPoint x="490" y="450" />
             </Array>
+            <mxPoint x="450" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U-wd1HLYxVXASG_DGe6N-15" value="Redirected to GetCredit page where they submit bank statements" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="555" y="400" width="150" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="U-wd1HLYxVXASG_DGe6N-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U-wd1HLYxVXASG_DGe6N-17" target="U-wd1HLYxVXASG_DGe6N-23" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="U-wd1HLYxVXASG_DGe6N-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="450" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="U-wd1HLYxVXASG_DGe6N-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U-wd1HLYxVXASG_DGe6N-17" target="U-wd1HLYxVXASG_DGe6N-19" edge="1">
+        <mxCell id="U-wd1HLYxVXASG_DGe6N-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="U-wd1HLYxVXASG_DGe6N-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="390" y="540" />
               <mxPoint x="390" y="540" />
             </Array>
+            <mxPoint x="390" y="490" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="U-wd1HLYxVXASG_DGe6N-17" value="Basic Autofail filter" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="330" y="410" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="U-wd1HLYxVXASG_DGe6N-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U-wd1HLYxVXASG_DGe6N-19" target="U-wd1HLYxVXASG_DGe6N-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -270,6 +271,9 @@
         </mxCell>
         <mxCell id="LoCuq9AvCIkKn8kCuvQ0-14" value="&lt;div&gt;Fail/&lt;/div&gt;&lt;div&gt;Reject&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="752.5" y="260" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LoCuq9AvCIkKn8kCuvQ0-15" value="Basic Autofail filter" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="330" y="410" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
